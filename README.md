@@ -4,7 +4,7 @@ A program for editing, localizing and printing cards for the game Empires of Cat
 
 ![Screenshot](/Screenshot.png)
 
-Empires of Catan is a very cool extension for the board game Catan, developed by redditor Dj-oatmeal. The extension uses the ideas of Age of Empires when playing Catan. More information about Empires of Catan can be found on the following pages:
+Empires of Catan is a very cool extension for the board game Catan, created by redditor Dj-oatmeal. The extension uses the ideas of Age of Empires when playing Catan. More information about Empires of Catan can be found on the following pages:
 
 https://docs.google.com/document/d/1WjMf2ObH04rSPRcY51dQoO3VaqxxqAdpE6i_2DaV2xY/
 
