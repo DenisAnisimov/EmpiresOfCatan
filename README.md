@@ -1,4 +1,4 @@
-# Empires Of Catan
+# Empires Of Catan Editor
 
 A program for editing, localizing and printing cards for the game Empires of Catan.
 
