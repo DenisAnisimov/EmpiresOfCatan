@@ -1,0 +1,1 @@
+﻿May trade 4 of any combination of resources for 1 of any resource. For the cost of 3 wood and 3 ore, may upgrade a city into feitoria, which generates 3 of each resource from adjucent hexes. This may only be done once, and is worth 3 victory points. Place a settlement on top of the city to represent this.

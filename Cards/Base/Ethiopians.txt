@@ -1,0 +1,1 @@
+﻿Any settlements or cities built adjacent to a desert hex produce 1 gold coin when a 7 is rolled. Cities produce 2 gold coins. Robbers do not block desert production. Get 1 gold coin for every new city built.

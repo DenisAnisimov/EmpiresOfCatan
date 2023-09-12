@@ -1,0 +1,1 @@
+﻿Can build settlements (except starting settlement) within 1 intersection of other player settlements (not your own). Start with +1 wood.

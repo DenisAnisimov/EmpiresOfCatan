@@ -1,0 +1,1 @@
+﻿Start the game with 1 free knight at the castle hex. Obtain 1 resource card of the hex that you remove barbarians from whenever your knights are involved.

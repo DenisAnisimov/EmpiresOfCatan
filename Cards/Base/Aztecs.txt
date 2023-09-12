@@ -1,0 +1,1 @@
+Whenever another player steals a card from you, get 1 gold coin per resource lost. When your resources are sacrificed after a 7 is rolled, get 3 gold coins.

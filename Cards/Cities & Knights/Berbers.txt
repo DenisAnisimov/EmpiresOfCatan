@@ -1,0 +1,1 @@
+﻿Can choose how many active knights to use when barbarians attack (unused knights stay activated). Whenever barbarians lands, draw 1 card from any progress card stack, regardless of the outcome.

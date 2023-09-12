@@ -1,0 +1,1 @@
+﻿Once per turn, after rolling, you may relocate a settlement or open road to anywhere it can legally be build (must be along the same road).

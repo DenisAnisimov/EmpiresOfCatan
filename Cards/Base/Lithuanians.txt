@@ -1,0 +1,1 @@
+﻿At the end of your turn, gain +1 gold coin for every development card in your hand (maximum of 4 coins per turn).

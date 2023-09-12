@@ -1,0 +1,1 @@
+﻿All baggage train upgrades cost -1 wood. Start the game with +1 ore.

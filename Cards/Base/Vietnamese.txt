@@ -1,0 +1,1 @@
+﻿Reveal this card before any players build starting settlements, You go first and chose player turn order. You are also the first to place your second settlements (right after the last player places their first settlement). When you steal cards from another player, you may look at their hands.

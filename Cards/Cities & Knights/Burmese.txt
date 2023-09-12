@@ -1,0 +1,1 @@
+﻿Reveal this card before any players build starting settlements. Instead of initially placing 1 settlement and 1 city, place 2 cities. However, place both of your cities last, after all other players have settled.

@@ -1,0 +1,1 @@
+﻿Start the game with 1 free deactivated knight. Every time the barbarians attack, choose 1 resource to collect from 1 hex adjacent to each active knight that becomes deactivated. Cannot upgrade knights past level 2.

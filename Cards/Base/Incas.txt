@@ -1,0 +1,1 @@
+﻿Development card cost -1 ore, but cannot obtain largest army.

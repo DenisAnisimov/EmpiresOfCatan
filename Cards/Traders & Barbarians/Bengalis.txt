@@ -1,0 +1,1 @@
+Your trade wagon acts like a settlement, collecting resources from adjacent hexes when its number is rolled, and can use leftover movement points after completing trades. However, require +1 Victory Point to win.

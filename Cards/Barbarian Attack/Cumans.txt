@@ -1,0 +1,1 @@
+﻿Knights can move up to 5 paths. Paying 1 grain will allow a knight to move to 7 paths. Both starting settlements receive resources from surrounding terrain hexes.

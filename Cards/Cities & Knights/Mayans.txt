@@ -1,0 +1,1 @@
+﻿Can substitute any amount of ore for brick when building city walls. Cities with a city wall cannot be pillaged and will instead lose the city wall.

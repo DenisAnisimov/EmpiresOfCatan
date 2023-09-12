@@ -1,0 +1,1 @@
+﻿Every time you draw a progress card from the trade card stack, draw 2 cards instead of 1. Start the game with the trade progress chart upgraded once.

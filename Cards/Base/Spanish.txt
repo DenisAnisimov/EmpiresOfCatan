@@ -1,0 +1,1 @@
+﻿Whenever another player's settlement or city is connected to one of your roads, you get 1 gold coin at the end of your turn (per connection). Start the game with +2 gold coins.

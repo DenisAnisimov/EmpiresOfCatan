@@ -1,0 +1,1 @@
+﻿Get 1 fire ship that starts on any shoreline path. The fire ship can move a maximum of 3 shoreline paths on your turn and act like a knight when encountering barbarians, but cannot be removed after a victory.

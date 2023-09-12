@@ -1,0 +1,1 @@
+﻿Start the game with 1 free knight card. Obtain 1 of each corresponding resource from each of the path`s adjacent hexes that your knights remove barbarian from. However, when stealing resources from players with a knight, they chose which resource to give you.

@@ -1,0 +1,1 @@
+﻿Each city with a city wall produces 1 gold coin at the end of your turn. However, city walls only add +1 card to your safe hand limit.

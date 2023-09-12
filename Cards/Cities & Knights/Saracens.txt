@@ -1,0 +1,1 @@
+﻿Get 1 trade cog that starts on any shoreline intersection. The trade cog can move a maximum of 5 shoreline intersections on your turn. Can visit harbors and benefits from their trade bonus once per turn.

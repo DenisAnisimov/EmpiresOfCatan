@@ -1,0 +1,1 @@
+﻿Every time a barbarian hex is conquered, gain 1 of the corresponding resource. Once per turn, can pay 1 gold coin to move barbarian to an adjacent shoreline hex.

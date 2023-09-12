@@ -1,0 +1,1 @@
+﻿Can build roads, settlements, and cities between other player turn (before the dice are rolled). Start with +1 brick.

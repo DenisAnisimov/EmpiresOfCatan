@@ -1,0 +1,1 @@
+﻿Each time you roll on your turn, also roll the resource die. You gain 1 of the corresponding resource (gold is 1 gold coin). This effect stops working whenever you reach half the required victory point to win (rounded in your favor).

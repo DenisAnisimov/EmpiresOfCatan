@@ -1,0 +1,1 @@
+﻿2:1 harbors will generate their corresponding resource when a 7 is rolled, but you cannot benefit from maritime trade bonuses (3:1 harbors will grant 1 gold coin). Cities do not produce additional resources this way.

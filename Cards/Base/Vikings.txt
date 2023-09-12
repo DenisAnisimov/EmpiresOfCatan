@@ -1,0 +1,1 @@
+﻿Any settlements along the coast cost -1 of any resource to build. Gain 1 resource of any adjacent hex when a new settlement is build if it is not along the coast.

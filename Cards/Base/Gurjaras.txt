@@ -1,0 +1,1 @@
+﻿Get 1 camel that starts on any hex. On your turn, you may move the camel up to 2 adjacent hexes. The camel collects 1 resource of the corresponding hex when its number is rolled.

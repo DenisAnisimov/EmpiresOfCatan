@@ -1,0 +1,1 @@
+﻿Can build 1 additional settlement after all other players have placed their settlements, but do not get any resources or road for any settlements.

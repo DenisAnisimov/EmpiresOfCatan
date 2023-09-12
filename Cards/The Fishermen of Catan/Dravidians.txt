@@ -1,0 +1,1 @@
+﻿Fish trade prices reduced by 1. Building any new settlements or cities produces 1 fish tile.

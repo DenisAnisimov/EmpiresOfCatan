@@ -1,0 +1,1 @@
+﻿Whenever another player discards resources when a 7 is rolled, they must give you 2 of their discarded resources (of your choice). When you discard resources, pick an additional 2 resources to save.

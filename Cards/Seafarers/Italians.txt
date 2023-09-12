@@ -1,0 +1,1 @@
+﻿Start with 1 free ship if either of your starting settlements is placed on a shoreline. Whenever you buy a combination of 2 ships or roads in one turn, get 1 additional ship or road for free.

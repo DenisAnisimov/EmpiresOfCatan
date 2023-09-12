@@ -1,0 +1,1 @@
+﻿Any settlements or cities build adjacent to trade hexes produce that hex`s corresponding resource when 7 is rolled (e.g. the castle hex will produce wool).

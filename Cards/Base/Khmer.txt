@@ -1,0 +1,1 @@
+﻿Can build cities in valid intersection without needing a settlement first. Doing this will only count as 1 victory point until the settlement is repaid with its normal cost (place a city on its side to represent 1 victory point). Start the game with +1 wheat.
